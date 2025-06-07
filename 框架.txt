@@ -1,0 +1,12 @@
+auth-website/
+├── public/           # 前端静态文件
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── login.js
+│   │   └── register.js
+│   ├── index.html    # 登录页面
+│   └── register.html # 注册页面
+├── server.js         # 后端主文件
+├── database.js       # 数据库连接和操作
+└── package.json
